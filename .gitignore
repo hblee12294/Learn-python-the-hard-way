@@ -1,0 +1,26 @@
+# Packaging
+*.mo
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+
+# Folders
+bin/
+build/
+develop-eggs/
+downloads/
+eggs/
+fake-eggs/
+parts/
+dist/
+
+# Configure, temps
+.installed.cfg
+.mr.developer.cfg
+.hg
+.bzr
+.svn
+*.pyc
+*.pyo
+*.tmp*
